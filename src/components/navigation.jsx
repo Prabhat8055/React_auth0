@@ -7,7 +7,7 @@ const Navigation = () => {
   return (
     <nav className="nav">
       <div className="logo">
-        <img src="/images/brand_logo.png" alt="kaka" />
+        <img src={`${process.env.PUBLIC_URL}/images/brand_logo.png`} alt="kaka" />
       </div>
       <ul>
         <li href="#">Menu</li>
