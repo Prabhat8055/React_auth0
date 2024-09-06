@@ -19,7 +19,7 @@ const HeroSection = () => {
               <img src="/images/flipkart.png" alt="" />
             </a>
             <a href="https://www.amazon.in/Nike-University-Running-Shoes-13-5-847473-616/dp/B0192EW1Z6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.BO1FzJ5JkwCnYESFeDJx8DJwyIqda1E_yGkDQzzEaROtFn6KOwZBavmZ5rek4STlftXEWmtww6yjqtVI9C-yCYiwyCrUREH1EE0hJT7qjbORg_EZ62RHVubzUFKUYqbZGnBK4c9FNdb3BzZ_1ZUJzgpjB5rarXdqIt2SIDtxUMyhyZL7ZXzCbwqc9aACgcH1fuHoZalGBhmBz0cKqxa_vkeLX5lyL1VSZlDZlDGqpCff6oS12x5-ghmHpqlgxw83Hhr4_3wPsK5Ugmqjp5ggwOxTx3xBuyF_zh_A-3fqAtQ.f1MbkyEJ3GIelnTHtVUOqDpdtsehvqhVfbujtbnWfxw&dib_tag=se&keywords=nike+shoes+for+men+red&qid=1724666808&sr=8-3">
-              <img src="./images/amazon.png" alt="" />
+              <img src="../images/amazon.png" alt="" />
             </a>
           </div>
         </div>
